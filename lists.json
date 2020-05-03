@@ -1,0 +1,13 @@
+[
+    [1, "Rice", 5,"Kilogram", "Grocery","Basmati"] ,
+    [2, "Sugar",5,"Kilogram", "Baking","White sugar"] ,
+    [3, "Milk", 2,"Litre", "Dairy","Nido"] ,
+    [4, "Dates", 5,"Kilogram", "Fruits","Almarai"] ,
+    [5, "Zucchini", 1,"Kilogram", "Veggie","Salad Greens"] ,
+    [6, "BBQ Sauce", 1,"Litre", "Sauces","Sweet"] ,
+    [7, "Choco mix", 2,"Kilogram", "Baking","Almas"] ,
+    [8, "Blueberry", 5,"Kilogram", "Fruit","Frozen"] ,
+    [9, "Soup", 2,"Litre", "Sweet","Canned Good"] ,
+    [10, "Jelly",5,"Kilogram", "Candy","Condiments"] 
+ 
+ ]
